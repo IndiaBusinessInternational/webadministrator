@@ -1,0 +1,48 @@
+body {
+  background-image: url(img/pexels-photo-265072.jpeg);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  margin: 0;
+  padding: 0;
+  opacity: 1.0;
+  color: white;
+  font-weight: bold;
+  font-size: medium;
+  line-height: 1.5em;
+}
+h1 {
+  background-color: rgba(0, 0, 0, 0.2);
+  padding-left: 20px;
+}
+li {
+  text-decoration: none;
+}
+a {
+  text-decoration: none;
+  color: white;
+}
+a:hover {
+  background-color: grey;
+  color: black;
+  opacity: 1.0;
+  padding: 5px;
+}
+.header nav ul li {
+  display: inline-block;
+  padding: 10px;
+}
+
+/* BlueViolet */
+/* Brown */
+/* BurlyWood */
+/* Chartreuse */
+/* Coral */
+/* Crimson */
+/* Cyan */
+/* DarkGoldenRod */
+/* DarkMagenta */
+/* DarkOrange */
+/* DarkSlateGrey */
+/* ForestGreen */
+/* Gold */
